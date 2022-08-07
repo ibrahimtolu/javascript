@@ -1,0 +1,26 @@
+body{
+    font-size: large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    align-items: center;
+    background-image: linear-gradient(to top left, #a9eb11 0%, #9eeb0f 100%);
+}
+.app-title{
+    align-items: flex-end;
+    color:chocolate;
+    align-items: center;
+}
+.card-header{
+  
+    color: aqua;
+    background-color: rgb(255, 15, 183);
+  
+}
+.card-body{
+
+}
+#header{
+    font-size: 25px;
+}
+a{
+    color: red;
+}
